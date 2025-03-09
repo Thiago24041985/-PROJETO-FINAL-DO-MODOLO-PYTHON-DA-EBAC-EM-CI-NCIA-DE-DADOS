@@ -1,1 +1,1 @@
-# -PROJETO-FINAL-DO-MODOLO-PYTHON-DA-EBAC-EM-CI-NCIA-DE-DADOS
+exercicios_python_numpy
